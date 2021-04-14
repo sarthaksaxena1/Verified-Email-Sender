@@ -5,6 +5,6 @@ I created a python script which is used to send bulk emails from multiple email 
 the speciality is that it also verifies all the email ids and put them sepaarately that which are valid and which are invalid.
 then from the valid emails it send all the emails.
 
-make sure you create a ## data.txt file and write all the domains of the emails.
+make sure you #create a data.txt file and write all the domains of the emails.
 
 you also have to enable the third party access ON in all the email ids you are using.
