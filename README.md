@@ -1,4 +1,4 @@
-# Verified--Email-Sender
+# Bulk-Verified-Multiple-Email-Sender-From-Multiple-Emails
 A python Script used to send emails.
 
 I created a python script which is used to send bulk emails from multiple email ids fully automatically
